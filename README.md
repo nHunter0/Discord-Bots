@@ -5,4 +5,4 @@ by using the following command:
 
 **$ pip install -U discord.py**
 
-You will also have to allow read and write permissions to discord bot.
+You will also have to allow read and write permissions to your discord bot.
